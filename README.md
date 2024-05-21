@@ -1,7 +1,7 @@
 # portfolio-hwasan
 Just a standard Shopify Theme, customizations made, can be customized much further of course.
 
-![](/assets/screebshot1.png)
-![](/assets/screebshot2.png)
-![](/assets/screebshot3.png)
-![](/assets/screebshot4.png)
+![](/assets/screenshot1.png)
+![](/assets/screenshot2.png)
+![](/assets/screenshot3.png)
+![](/assets/screenshot4.png)
